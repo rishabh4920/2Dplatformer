@@ -219,8 +219,8 @@ class Portal(GameObject):
             self.color = BLACK
         
                  
-WIDTH: int = 1920
-HEIGHT: int = 1080
+WIDTH: int = 1600
+HEIGHT: int = 900
 FPS: int = 100
 
 
